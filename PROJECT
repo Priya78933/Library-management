@@ -1,0 +1,23 @@
+TITLE:LIBRARY MANAGEMENT SYSTEM
+
+
+Abstract:
+ Library mangement system is a project which aims in developing
+a computerized system to maintain all the daily work of library. This
+project has many features which are generally not available in normal
+library management system like facility of user login and a facility of
+teachers login. It has also a facility where student after logging in their
+accounts can see list of books issued and its issue date and return date
+and also the students can request the librarian to add new books by filling
+the book request form. The librarian after logging into his account i.e.
+admin account can generate various reports such as student report issue
+report teacher report and book report.
+With the advancement of technology, it is imperative to exalt all
+the systems into a user friendly manner. The Library Management
+System (LMS) acts as a tool to transform traditional libraries into digital
+libraries. In traditional libraries, the students/user has to search for books
+which are hassles process and there is no proper maintance of database
+about issues/fines.
+Overall this project of ours is being developed to help the students
+as well as staff of library to maintain the library in the best way possible
+and also reduce the human efforts. 
